@@ -1,3 +1,9 @@
+// longest palindrom with giver X
+
+// input : 10010
+// output:4
+
+
 function binaryString3(n,str){
     // optimal solution O(n)
     
